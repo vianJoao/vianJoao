@@ -2,18 +2,18 @@
 ## Engenheiro de Software
 
 <div align="center">
-  <img src="https://i.imgur.com/KMe0x0G.png" alt="Brasão da Coragem" width="60">
-  &nbsp;&nbsp;
-  <p align="center">
-  <img src="https://i.imgur.com/KMe0x0G.png" alt="Brasão da Coragem" width="60">
-  <img src="https://i.imgur.com/m331vUj.png" alt="Brasão da Amizade" width="60">
-  <img src="https://i.imgur.com/kBg1y3c.png" alt="Brasão do Amor" width="60">
-  <img src="https://i.imgur.com/Y1A1o4Q.png" alt="Brasão do Conhecimento" width="60">
-  <img src="https://i.imgur.com/n1d6J0e.png" alt="Brasão da Sinceridade" width="60">
-  <img src="https://i.imgur.com/4zYgCiF.png" alt="Brasão da Confiança" width="60">
-  <img src="https://i.imgur.com/vHqLgR1.png" alt="Brasão da Esperança" width="60">
-  <img src="https://i.imgur.com/BOVfAjp.png" alt="Brasão da Luz" width="60">
-</p>
+  <table border="0" cellpadding="0" cellspacing="8"> <tr>
+      <td><img src="https://i.imgur.com/KMe0x0G.png" alt="Brasão da Coragem" width="60"></td>
+      <td><img src="https://i.imgur.com/m331vUj.png" alt="Brasão da Amizade" width="60"></td>
+      <td><img src="https://i.imgur.com/kBg1y3c.png" alt="Brasão do Amor" width="60"></td>
+      <td><img src="https://i.imgur.com/Y1A1o4Q.png" alt="Brasão do Conhecimento" width="60"></td>
+      <td><img src="https://i.imgur.com/n1d6J0e.png" alt="Brasão da Sinceridade" width="60"></td>
+      <td><img src="https://i.imgur.com/4zYgCiF.png" alt="Brasão da Confiança" width="60"></td>
+      <td><img src="https://i.imgur.com/vHqLgR1.png" alt="Brasão da Esperança" width="60"></td>
+      <td><img src="https://i.imgur.com/BOVfAjp.png" alt="Brasão da Luz" width="60"></td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### Sobre Mim

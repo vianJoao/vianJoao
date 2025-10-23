@@ -1,50 +1,36 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&weight=700&color=36BCF7&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+o+João+Viana;Engenheiro+de+Software;Especialista+em+Full-Stack;Aspirante+em+IA" alt="Typing SVG" />
-</p>
+# João Victor
+## Engenheiro de Software
 
-<p align="center">
-  Sou Engenheiro de Software focado em construir soluções web robustas, escaláveis e eficientes. Minha paixão é combinar o poder do back-end, especialmente com <strong>Python (FastAPI)</strong> e <strong>Nest.js</strong>, com a performance e a experiência de usuário de front-ends modernos como o <strong>Next.js</strong>.
-</p>
-
----
-
-<h3 align="center">📊 Estatísticas & Conquistas 🏆</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianJoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianJoao&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vianJoao&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/KMe0x0G.png" alt="Brasão da Coragem" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/m331vUj.png" alt="Brasão da Amizade" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/kBg1y3c.png" alt="Brasão do Amor" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/Y1A1o4Q.png" alt="Brasão do Conhecimento" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/n1d6J0e.png" alt="Brasão da Sinceridade" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/4zYgCiF.png" alt="Brasão da Confiança" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/vHqLgR1.png" alt="Brasão da Esperança" width="60" style="margin-right: 8px;">
+  <img src="https://i.imgur.com/BOVfAjp.png" alt="Brasão da Luz" width="60">
+</div>
 
 ---
 
-<h3 align="center">📈 Gráfico de Atividade Recente</h3>
+### Sobre Mim
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vianJoao&theme=tokyonight&hide_border=true&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7" alt="Gráfico de Atividade do GitHub" />
-</p>
+Sou um Engenheiro de Software focado em criar soluções de tecnologia robustas e escaláveis. Minha paixão é combinar arquiteturas de back-end eficientes com experiências de front-end intuitivas.
+
+Estou sempre explorando novas formas de integrar **Inteligência Artificial** em meus projetos para criar produtos mais inteligentes e com maior capacidade de análise de dados.
 
 ---
 
-<h3 align="center">🚀 Minhas Principais Tecnologias</h3>
+### 💻 Minha Stack Tecnológica
 
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-</p>
-<p align="center">
-  <strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
-<p align="center">
-  <strong>Database & Infraestrutura:</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+Estas são as principais ferramentas e tecnologias que utilizo no meu dia a dia:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+
+---

@@ -1,19 +1,5 @@
 # João Victor
 ## Engenheiro de Software
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; border-spacing: 8px;">
-  <tr>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/coragem.png" alt="Brasão da Coragem" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/amizade.png" alt="Brasão da Amizade" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/amor.png" alt="Brasão do Amor" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/conhecimento.png" alt="Brasão do Conhecimento" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/sinceridade.png" alt="Brasão da Sinceridade" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/confianca.png" alt="Brasão da Confiança" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/esperanca.png" alt="Brasão da Esperança" width="60"></td>
-    <td style="padding: 0 4px;"><img src="https://raw.githubusercontent.com/vianJoao/vianJoao/main/assets/luz.png" alt="Brasão da Luz" width="60"></td>
-  </tr>
-</table>
-
 ---
 
 ### Sobre Mim

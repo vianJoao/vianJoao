@@ -37,11 +37,3 @@ Estas são as principais ferramentas e tecnologias que utilizo no meu dia a dia:
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
-
-### 📫 Contato
-
-Estou sempre aberto a conexões e novas oportunidades.
-
-📧 **Email:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-💼 **LinkedIn:** [linkedin.com/in/vianjoao](https://linkedin.com/in/vianjoao)  
-🌐 **Portfólio:** [github.com/vianJoao](https://github.com/vianJoao)

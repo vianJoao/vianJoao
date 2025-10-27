@@ -1,6 +1,10 @@
 # João Victor 👨‍💻
 ## Engenheiro de Software
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+focado+em+Back-end;Apaixonado+por+Python%2C+FastAPI%2C+e+Nest.js;Explorando+Integrações+com+IA...;Bem-vindo+ao+meu+perfil." />
+</p>
+
 <p align="left">
   <a href="https://github.com/vianJoao" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -34,12 +38,3 @@ Estas são as principais ferramentas e tecnologias que utilizo no meu dia a dia:
 | **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
 | **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianJoao&layout=compact&langs_count=7&theme=dracula"/>
-</p>

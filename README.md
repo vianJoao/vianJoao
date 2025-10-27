@@ -1,13 +1,26 @@
-# João Victor
+# João Victor 👨‍💻
 ## Engenheiro de Software
+
+<p align="left">
+  <a href="https://github.com/[SEU-GITHUB-USER]" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[SEU-EMAIL]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 ---
 
-### Sobre Mim
+### 🎯 Sobre Mim
 
-Sou um Engenheiro de Software focado em criar soluções de tecnologia robustas e escaláveis.  
-Minha paixão é combinar arquiteturas de back-end eficientes com experiências de front-end intuitivas.
+Sou um Engenheiro de Software focado em criar soluções de tecnologia robustas e escaláveis.
 
-Estou sempre explorando novas formas de integrar **Inteligência Artificial** em meus projetos para criar produtos mais inteligentes e com maior capacidade de análise de dados.
+* 🚀 Apaixonado por combinar arquiteturas de back-end eficientes com experiências de front-end intuitivas.
+* 🤖 Estou sempre explorando novas formas de integrar **Inteligência Artificial** em meus projetos para criar produtos mais inteligentes e com maior capacidade de análise de dados.
 
 ---
 
@@ -23,3 +36,12 @@ Estas são as principais ferramentas e tecnologias que utilizo no meu dia a dia:
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ---
+
+### 📊 Minhas Estatísticas do GitHub
+
+(Estas estatísticas são atualizadas automaticamente)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-GITHUB-USER]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-GITHUB-USER]&layout=compact&langs_count=7&theme=dracula"/>
+</p>

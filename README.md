@@ -1,13 +1,10 @@
-# João Victor 👨‍💻
+# João Victor 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+focado+em+Back-end;Apaixonado+por+Python%2C+FastAPI%2C+e+Nest.js;Explorando+Integrações+com+IA...;Bem-vindo+ao+meu+perfil." />
 </p>
 
 <p align="left">
-  <a href="https://github.com/vianJoao" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/joaovian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

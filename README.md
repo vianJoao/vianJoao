@@ -1,10 +1,9 @@
-# João Victor 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joaovian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:joao.viana.dev@gmail.com" target="_blank">
+  <a href="mailto:viana.joaovi@outlook.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -13,7 +12,7 @@
 
 ### 🎯 Sobre Mim
 
-Sou um Engenheiro de Software focado em criar soluções de tecnologia robustas e escaláveis.
+Sou Desenvolvedor de Software focado em criar soluções de tecnologia robustas e escaláveis.
 
 * 🚀 Apaixonado por combinar arquiteturas de back-end eficientes com experiências de front-end intuitivas.
 * 🤖 Estou sempre explorando novas formas de integrar **Inteligência Artificial** em meus projetos para criar produtos mais inteligentes e com maior capacidade de análise de dados.

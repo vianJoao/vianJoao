@@ -10,7 +10,7 @@
 
 ---
 
-### 🎯 Sobre Mim
+### Sobre Mim
 
 Sou Desenvolvedor de Software focado em criar soluções de tecnologia robustas e escaláveis.
 
